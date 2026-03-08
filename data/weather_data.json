@@ -1,0 +1,62 @@
+[
+    {
+        "City": "Delhi",
+        "Temperature": 34.31,
+        "Humidity": 9,
+        "Weather": "clear sky"
+    },
+    {
+        "City": "Mumbai",
+        "Temperature": 29.66,
+        "Humidity": 50,
+        "Weather": "clear sky"
+    },
+    {
+        "City": "Bengaluru",
+        "Temperature": 31.51,
+        "Humidity": 19,
+        "Weather": "clear sky"
+    },
+    {
+        "City": "Chennai",
+        "Temperature": 29.09,
+        "Humidity": 60,
+        "Weather": "clear sky"
+    },
+    {
+        "City": "Kolkata",
+        "Temperature": 32.38,
+        "Humidity": 37,
+        "Weather": "scattered clouds"
+    },
+    {
+        "City": "Hyderabad",
+        "Temperature": 34.1,
+        "Humidity": 16,
+        "Weather": "clear sky"
+    },
+    {
+        "City": "Pune",
+        "Temperature": 35.19,
+        "Humidity": 12,
+        "Weather": "clear sky"
+    },
+    {
+        "City": "Ahmedabad",
+        "Temperature": 36.45,
+        "Humidity": 12,
+        "Weather": "clear sky"
+    },
+    {
+        "City": "Jaipur",
+        "Temperature": 34.76,
+        "Humidity": 12,
+        "Weather": "clear sky"
+    },
+    {
+        "City": "Bhubaneswar",
+        "Temperature": 33.6,
+        "Humidity": 40,
+        "Weather": "broken clouds"
+    }
+]
