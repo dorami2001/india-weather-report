@@ -3,8 +3,9 @@ import requests
 import json
 import csv
 import matplotlib.pyplot as plt
+import os
 
-API_KEY="REMOVED"
+API_KEY = os.getenv("OPENWEATHER_API_KEY")
 cities = cities = ["Delhi", "Mumbai", "Bangalore", "Chennai", "Kolkata",
           "Hyderabad", "Pune", "Ahmedabad", "Jaipur", "Bhubaneswar"]
 
